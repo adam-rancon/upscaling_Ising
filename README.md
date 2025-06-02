@@ -1,9 +1,9 @@
-# Deep Learning the Ising Model
+# Upscaling the critical Ising model
 
 *started December 2022*
 
 ## Introduction
-
+This repository contains the code used to generate the data of the manuscript "Dreaming up scale invariance via inverse renormalization group"
 
 ## Installation
 
@@ -41,4 +41,6 @@ The naming convention is :
 	set_size the number of training data
 	
 	
-## the data analysis is performed in calculate_observables.py which uses observables_v.py
+## Data analysis 
+
+It is performed in calculate_observables.py which uses observables_v.py
